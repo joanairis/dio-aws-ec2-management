@@ -1,0 +1,34 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# AWS
+*.pem
+*.ppk
+.aws/
+credentials
+
+# Logs
+*.log
+logs/
+
+# Temporary
+*.tmp
+.temp/
+
+# Node (if using)
+node_modules/
+package-lock.json
+
+# Python (if using)
+__pycache__/
+*.py[cod]
+venv/
+.env
