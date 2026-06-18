@@ -374,4 +374,8 @@ NACLs:
 
 ---
 
+**Última atualização**: Junho 2026  
+**Autora**: Joana Iris  
+**Licença**: MIT
+
 **Próximo:** [Criar uma Instância EC2](02-criar-instancia.md)
