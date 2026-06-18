@@ -448,5 +448,5 @@ aws ec2 create-tags \
 ---
 
 **Última atualização**: Junho 2026  
-**Autor**: João Iris  
+**Autora**: Joana Iris  
 **Licença**: MIT
