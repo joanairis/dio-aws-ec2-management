@@ -394,7 +394,7 @@ Este projeto está sob licença MIT. Veja [LICENSE](LICENSE) para mais detalhes.
 
 ## 👤 Autor
 
-**João Iris**
+**Joana Iris**
 - GitHub: [@joanairis](https://github.com/joanairis)
 - Desafio DIO: Gerenciamento de EC2 na AWS
 
